@@ -44,3 +44,14 @@
 #     print(b_list)
 
 # mutate([1, 2, 3, 5, 8, 13])
+
+############ Exercises #####################
+
+  number = int(input("Which number do you want to check?"))
+
+if number % 2 = 0:
+  print("This is an even number.")
+else:
+  print("This is an odd number.")
+  
+
